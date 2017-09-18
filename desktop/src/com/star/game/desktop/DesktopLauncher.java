@@ -5,6 +5,7 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import com.star.game.StarGame;
 
 public class DesktopLauncher {
+//19.09.2017. Можно считать законченным определенный виток в обучении.
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		float aspect = 480f / 854f;
