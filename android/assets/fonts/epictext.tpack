@@ -1,0 +1,12 @@
+
+epictext.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+EpicText
+  rotate: false
+  xy: 2, 2
+  size: 474, 156
+  orig: 474, 156
+  offset: 0, 0
+  index: -1
